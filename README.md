@@ -1,3 +1,2 @@
 # Doliver
-free to learn, free to fly\n
-sweet life, stressful life\n
+print("free to learn, free to fly\nsweet life, stressful life\n")
