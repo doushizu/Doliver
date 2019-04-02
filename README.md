@@ -1,2 +1,7 @@
 # Doliver
-print("free to learn, free to fly\nsweet life, stressful life\n")
+
+
+free to learn, free to fly
+
+
+sweet life, stressful life
